@@ -24,7 +24,7 @@ public class Customers4Query {
     }
 
     /**
-     * 这是 重 难 点
+     * 这是 重 难 点；针对于Customers 表的查找操作
      * 注意：用Test 跑单元测试是要求方法不能有参数和返回类型的；否则会报错：“Method query4Customer() should be void”
      * @param sql
      * @param args

@@ -8,6 +8,8 @@ import java.text.SimpleDateFormat;
 
 /**
  * 使用 PreparedStatement 实现对数据表的 增删改，查 操作
+ * PreparedStatement 通过对 sql 语句的预编译，明确了语句的“且、或”关系，
+ * 避免了 占位符 中填充的数据 对 sql 语句读取的影响
  */
 public class PreparedStatementUpdateTest {
 
