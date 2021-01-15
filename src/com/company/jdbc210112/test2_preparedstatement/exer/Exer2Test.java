@@ -141,7 +141,7 @@ public class Exer2Test {
 
         System.out.print("输入考生姓名：");
         String StudentName = scanner.next();
-  
+
         System.out.print("输入考试地点：");
         String Location = scanner.next();
 
